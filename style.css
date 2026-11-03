@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:rgb(74, 74, 255);
+}
+
+
+.ppp{
+    font-size: 96px;
+    color: white;
+    position: absolute;
+    top: 238px;
+    right: 980px;
+    
+}
+
+select{
+    width: 662px;
+    height: 100px;
+    font-size: 44.47px;
+    border-radius: 22.23px;
+    color: #5533FF;
+    position: absolute;
+    left: 850px;
+    top: 238px;
+    /* right: 265px; */
+    outline: none;
+    text-align: center;
+    
+}
+
